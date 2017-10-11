@@ -1,7 +1,7 @@
 
-KekCoin development tree
+Kekistandard development tree
 
-KekCoin is a PoS-based cryptocurrency.
+Kekistandard is a PoS-based cryptocurrency.
 
 Development process
 ===========================
